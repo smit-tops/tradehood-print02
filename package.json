@@ -1,5 +1,6 @@
 {
-  "version": "2.0.0",
+  "name": "tradehood-app",
+  "version": "2.0.2",
   "description": "Tradehood Printer Application",
   "keywords": [
     "electron",
@@ -231,7 +232,7 @@
         "AppImage"
       ],
       "category": "Development"
-    },  
+    },
     "directories": {
       "app": "release/app",
       "buildResources": "assets",

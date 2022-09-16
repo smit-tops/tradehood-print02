@@ -23,6 +23,7 @@ const Login = () => {
     const navigate = useNavigate();
 
     useEffect(() => {
+        alert("New build")
         login && navigate('print');
 
         const prevLoggedInCred = async () => {

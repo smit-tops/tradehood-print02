@@ -105,7 +105,7 @@ dist
 
 node_modules
 src/assets
-release
+release/build
 .env
 dll
 .erb/dll
